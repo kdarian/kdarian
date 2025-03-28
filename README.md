@@ -12,7 +12,7 @@
   <img src="https://64.media.tumblr.com/524d1b96add71d3d1543c24d01bd545c/804a182a7ca8e6a2-89/s2048x3072/cdb3a31ddefa0bb3761c76a92a13ce215105d760.pnj" />
 </p>
 
-### 🧠 Sobre mí
+### 🧠 ABOUT ME!
 
 - 🎓 I study Data Science & Mathematics—but I read legal theory for fun  
 - 🗃 I enjoy ambiguity, edge cases, and systems that resist being solved  
